@@ -42,3 +42,17 @@ h1, h2 {
     text-align: center;
     margin: 20px;
 }
+
+figure {
+    margin-bottom: 50px;
+}
+
+li {
+    display: inline;
+    padding: 0 20px;
+}
+
+a {
+    color: antiquewhite;
+    text-decoration: none;
+}
