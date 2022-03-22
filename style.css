@@ -63,14 +63,19 @@ img {
 }
 
 section {
-    padding: 0 20px;
+    margin-bottom: 0;
+    padding: 20px 10px 40px 10px;
+    border-top: 3px solid rgb(224, 158, 96);
+
 }
    
 
 form {
-    margin: 10px;
-    border: 10px solid rgb(224, 158, 96);
-    padding: 0 20px;
+    margin: 0 auto;
+    width: 500px;
+    border: 5px solid rgb(224, 158, 96);
+    border-radius: 20px;
+    padding: 10px;
     background-color:antiquewhite;
 }
 
