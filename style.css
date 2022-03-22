@@ -79,6 +79,15 @@ form {
     background-color:antiquewhite;
 }
 
+label {
+    display: block;
+    width: 10px;
+}
+
+input {
+    width: 300px;
+}
+
 /* Class Selector */
 .text-center {
     text-align: center;
